@@ -10,6 +10,6 @@ Notepad++ UDL for Zig
 
 ## Known issues:
  - `...` isn't parsed correctly
- - hex float literals containing a decimal aren't parsed correctly
+ - some valid number literal forms aren't parsed correctly
 
 both problems are due to limitations of Notepad++'s UDL implementation
