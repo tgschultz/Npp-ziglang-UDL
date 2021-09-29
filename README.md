@@ -9,7 +9,4 @@ Notepad++ UDL for Zig
  - Press "Import" and then select the zig.xml file
 
 ## Known issues:
- - `...` isn't parsed correctly
- - some valid number literal forms aren't parsed correctly
-
-both problems are due to limitations of Notepad++'s UDL implementation
+ - integer primitives above 256 bits not highlighted
